@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./precesprivataeq00andrgoog_0110.png"; bbox 0 0 2910 5002; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 242 420 1028 492">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 242 420 1028 492">
+     <span class='ocr_line' id='line_1_1' title="bbox 242 420 1028 492; baseline -0.008 0"><span class='ocrx_word' id='word_1_1' title='bbox 242 430 286 492; x_wconf 88' lang='grc'>90</span> <span class='ocrx_word' id='word_1_2' title='bbox 528 424 667 489; x_wconf 77' lang='grc' dir='ltr'>ΕΤΧΑΙ</span> <span class='ocrx_word' id='word_1_3' title='bbox 691 420 1028 489; x_wconf 80' lang='grc' dir='ltr'><strong>ΚΑΘΗΜΕΡΙΝΑΙ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 290 592 1087 1186">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 290 592 1087 1186">
+     <span class='ocr_line' id='line_1_2' title="bbox 294 592 912 680; baseline 0.01 -22"><span class='ocrx_word' id='word_1_4' title='bbox 294 593 421 680; x_wconf 80' lang='grc' dir='ltr'>Θρόνοι,</span> <span class='ocrx_word' id='word_1_5' title='bbox 785 592 912 678; x_wconf 72' lang='grc' dir='ltr'>Κρίσις,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 291 715 938 804; baseline -0.003 -20"><span class='ocrx_word' id='word_1_6' title='bbox 291 717 497 804; x_wconf 71' lang='grc' dir='ltr'>Κυριότητες,</span> <span class='ocrx_word' id='word_1_7' title='bbox 788 715 938 795; x_wconf 60' lang='grc' dir='ltr'>Εὖποιΐα,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 290 843 1004 933; baseline -0.003 -22"><span class='ocrx_word' id='word_1_8' title='bbox 290 843 419 933; x_wconf 67' lang='grc' dir='ltr'>Ἀρχαὶ,</span> <span class='ocrx_word' id='word_1_9' title='bbox 787 843 1004 932; x_wconf 75' lang='grc' dir='ltr'>Κυβέρνησις,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 292 970 1087 1056; baseline 0.003 -20"><span class='ocrx_word' id='word_1_10' title='bbox 292 970 469 1054; x_wconf 75' lang='grc' dir='ltr'><strong><em>Ἐξουσίαι,</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 792 971 877 1037; x_wconf 78' lang='grc' dir='ltr'>κατὰ</span> <span class='ocrx_word' id='word_1_12' title='bbox 897 972 1087 1056; x_wconf 61' lang='lat' dir='ltr'>Amnum,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 294 1098 923 1186; baseline -0.002 -23"><span class='ocrx_word' id='word_1_13' title='bbox 294 1098 488 1186; x_wconf 79' lang='grc' dir='ltr'>Χερουβεὶμ,</span> <span class='ocrx_word' id='word_1_14' title='bbox 792 1099 923 1174; x_wconf 77' lang='grc' dir='ltr'><strong><em>Γνῶσις,</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 295 1220 933 1312">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 295 1220 933 1312">
+     <span class='ocr_line' id='line_1_7' title="bbox 295 1220 933 1312; baseline -0.013 -1"><span class='ocrx_word' id='word_1_15' title='bbox 295 1223 466 1312; x_wconf 49' lang='lat' dir='ltr'>&amp;mlta</span> <span class='ocrx_word' id='word_1_16' title='bbox 790 1220 933 1305; x_wconf 68' lang='grc' dir='ltr'><strong><em>Ἀνάπη·</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1460 5002">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1460 5002">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 1460 5002; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1460 5002; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
